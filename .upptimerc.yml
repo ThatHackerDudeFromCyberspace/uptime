@@ -13,6 +13,8 @@ sites:
     url: https://canvas.ducttapedgames.com/
   - name: DTG-Wiki
     url: https://wiki.ducttapedgames.com/
+  - name: IoT
+    url: https://iot.hackerman.fr
 #  - name: Hacker News
 #    url: https://news.ycombinator.com
 #  - name: Test Broken Site
