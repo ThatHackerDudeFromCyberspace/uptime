@@ -7,6 +7,8 @@ sites:
     url: https://git.hackerman.fr/
   - name: CM-HC
     url: https://cm-hc.hackerman.fr/
+  - name: Watch
+    url: https://watch.hackerman.fr/
 #  - name: Hacker News
 #    url: https://news.ycombinator.com
 #  - name: Test Broken Site
