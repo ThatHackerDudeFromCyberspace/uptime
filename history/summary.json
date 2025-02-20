@@ -22,19 +22,19 @@
     "url": "https://cm-hc.hackerman.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/cm-hc.hackerman.fr.ico",
     "slug": "cm-hc",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 844,
-    "timeDay": 2093,
-    "timeWeek": 844,
-    "timeMonth": 844,
-    "timeYear": 844,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 788,
+    "timeDay": 1510,
+    "timeWeek": 788,
+    "timeMonth": 788,
+    "timeYear": 788,
     "dailyMinutesDown": {
-      "2025-02-20": 0
+      "2025-02-20": 4
     }
   },
   {
