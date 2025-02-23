@@ -42,19 +42,19 @@
     "url": "https://watch.hackerman.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/watch.hackerman.fr.ico",
     "slug": "watch",
-    "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
-    "time": 531,
-    "timeDay": 388,
-    "timeWeek": 531,
-    "timeMonth": 531,
-    "timeYear": 531,
+    "status": "up",
+    "uptime": "93.08%",
+    "uptimeDay": "72.94%",
+    "uptimeWeek": "93.08%",
+    "uptimeMonth": "93.08%",
+    "uptimeYear": "93.08%",
+    "time": 525,
+    "timeDay": 415,
+    "timeWeek": 525,
+    "timeMonth": 525,
+    "timeYear": 525,
     "dailyMinutesDown": {
-      "2025-02-23": 26
+      "2025-02-23": 390
     }
   },
   {
