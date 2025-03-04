@@ -4,10 +4,10 @@
     "url": "https://git.hackerman.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/git.hackerman.fr.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 546,
@@ -15,16 +15,18 @@
     "timeWeek": 529,
     "timeMonth": 546,
     "timeYear": 546,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-04": 1
+    }
   },
   {
     "name": "CM-HC",
     "url": "https://cm-hc.hackerman.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/cm-hc.hackerman.fr.ico",
     "slug": "cm-hc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
@@ -34,6 +36,7 @@
     "timeMonth": 566,
     "timeYear": 566,
     "dailyMinutesDown": {
+      "2025-03-04": 0,
       "2025-02-20": 4
     }
   },
@@ -43,11 +46,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/watch.hackerman.fr.ico",
     "slug": "watch",
     "status": "up",
-    "uptime": "97.86%",
+    "uptime": "97.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.86%",
-    "uptimeYear": "97.86%",
+    "uptimeMonth": "97.96%",
+    "uptimeYear": "97.96%",
     "time": 513,
     "timeDay": 635,
     "timeWeek": 487,
