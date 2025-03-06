@@ -4,28 +4,30 @@
     "url": "https://git.hackerman.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/git.hackerman.fr.ico",
     "slug": "git",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 544,
     "timeDay": 614,
     "timeWeek": 527,
     "timeMonth": 544,
     "timeYear": 544,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-06": 2
+    }
   },
   {
     "name": "CM-HC",
     "url": "https://cm-hc.hackerman.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/cm-hc.hackerman.fr.ico",
     "slug": "cm-hc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 544,
@@ -34,6 +36,7 @@
     "timeMonth": 544,
     "timeYear": 544,
     "dailyMinutesDown": {
+      "2025-03-06": 1,
       "2025-02-20": 4
     }
   },
@@ -42,18 +45,19 @@
     "url": "https://watch.hackerman.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/watch.hackerman.fr.ico",
     "slug": "watch",
-    "status": "up",
-    "uptime": "98.15%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "98.15%",
+    "status": "down",
+    "uptime": "98.17%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "98.17%",
+    "uptimeYear": "98.17%",
     "time": 512,
     "timeDay": 564,
     "timeWeek": 493,
     "timeMonth": 512,
     "timeYear": 512,
     "dailyMinutesDown": {
+      "2025-03-06": 1,
       "2025-02-23": 390
     }
   },
@@ -62,9 +66,9 @@
     "url": "https://canvas.ducttapedgames.com/",
     "icon": "https://icons.duckduckgo.com/ip3/canvas.ducttapedgames.com.ico",
     "slug": "dtg-canvas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +77,9 @@
     "timeWeek": 1166,
     "timeMonth": 1208,
     "timeYear": 1208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-06": 0
+    }
   },
   {
     "name": "DTG-Wiki",
