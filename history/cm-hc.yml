@@ -1,7 +1,7 @@
 url: https://cm-hc.hackerman.fr/
-status: up
-code: 200
-responseTime: 554
-lastUpdated: 2025-03-13T23:13:10.106Z
+status: down
+code: 502
+responseTime: 14558
+lastUpdated: 2025-03-14T07:25:18.196Z
 startTime: 2025-02-19T09:23:10.548Z
 generator: Upptime <https://github.com/upptime/upptime>
