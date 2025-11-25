@@ -212,19 +212,19 @@
     "url": "https://mypayindia.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mypayindia.com.ico",
     "slug": "my-pay-india",
-    "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
-    "time": 548,
-    "timeDay": 548,
-    "timeWeek": 548,
-    "timeMonth": 548,
-    "timeYear": 548,
+    "status": "up",
+    "uptime": "64.35%",
+    "uptimeDay": "64.35%",
+    "uptimeWeek": "64.35%",
+    "uptimeMonth": "64.35%",
+    "uptimeYear": "64.35%",
+    "time": 511,
+    "timeDay": 511,
+    "timeWeek": 511,
+    "timeMonth": 511,
+    "timeYear": 511,
     "dailyMinutesDown": {
-      "2025-11-25": 0
+      "2025-11-25": 33
     }
   }
 ]
