@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.90%",
     "time": 539,
-    "timeDay": 636,
-    "timeWeek": 576,
-    "timeMonth": 518,
+    "timeDay": 653,
+    "timeWeek": 584,
+    "timeMonth": 521,
     "timeYear": 539,
     "dailyMinutesDown": {
       "2026-02-18": 320,
@@ -40,8 +40,7 @@
       "2025-06-28": 304,
       "2025-06-13": 24,
       "2025-05-18": 44,
-      "2025-04-13": 49,
-      "2025-04-02": 64
+      "2025-04-13": 49
     }
   },
   {
@@ -56,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.75%",
     "time": 457,
-    "timeDay": 491,
-    "timeWeek": 451,
-    "timeMonth": 406,
+    "timeDay": 483,
+    "timeWeek": 454,
+    "timeMonth": 408,
     "timeYear": 460,
     "dailyMinutesDown": {
       "2026-02-18": 319,
@@ -88,8 +87,7 @@
       "2025-06-28": 23,
       "2025-06-13": 24,
       "2025-05-18": 44,
-      "2025-04-13": 48,
-      "2025-04-02": 62
+      "2025-04-13": 48
     }
   },
   {
@@ -103,11 +101,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.79%",
-    "time": 638,
-    "timeDay": 785,
-    "timeWeek": 707,
-    "timeMonth": 774,
-    "timeYear": 638,
+    "time": 639,
+    "timeDay": 929,
+    "timeWeek": 739,
+    "timeMonth": 783,
+    "timeYear": 639,
     "dailyMinutesDown": {
       "2026-03-19": 23,
       "2026-02-18": 319,
@@ -138,16 +136,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/watch.hackerdude.tech.ico",
     "slug": "watch",
     "status": "up",
-    "uptime": "98.58%",
+    "uptime": "98.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.52%",
-    "time": 523,
-    "timeDay": 1159,
-    "timeWeek": 641,
-    "timeMonth": 609,
-    "timeYear": 525,
+    "time": 525,
+    "timeDay": 1136,
+    "timeWeek": 722,
+    "timeMonth": 612,
+    "timeYear": 527,
     "dailyMinutesDown": {
       "2026-02-18": 318,
       "2026-02-15": 21,
@@ -172,8 +170,7 @@
       "2025-06-13": 24,
       "2025-05-18": 44,
       "2025-04-13": 49,
-      "2025-04-03": 412,
-      "2025-04-02": 288
+      "2025-04-03": 412
     }
   },
   {
@@ -182,15 +179,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.ducttapedgames.com.ico",
     "slug": "dtg-wiki",
     "status": "up",
-    "uptime": "98.39%",
+    "uptime": "98.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.22%",
     "time": 716,
-    "timeDay": 647,
-    "timeWeek": 660,
-    "timeMonth": 719,
+    "timeDay": 692,
+    "timeWeek": 661,
+    "timeMonth": 721,
     "timeYear": 723,
     "dailyMinutesDown": {
       "2026-02-18": 318,
@@ -214,8 +211,7 @@
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 528,
-      "2025-04-13": 48,
-      "2025-04-02": 63
+      "2025-04-13": 48
     }
   },
   {
@@ -229,11 +225,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
-    "time": 785,
-    "timeDay": 628,
-    "timeWeek": 625,
-    "timeMonth": 609,
-    "timeYear": 785,
+    "time": 784,
+    "timeDay": 633,
+    "timeWeek": 629,
+    "timeMonth": 611,
+    "timeYear": 784,
     "dailyMinutesDown": {
       "2026-02-18": 318,
       "2026-02-15": 21,
