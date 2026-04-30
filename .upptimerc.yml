@@ -5,16 +5,30 @@ repo: uptime # The name of this repository
 sites:
   - name: Git
     url: https://git.hackerdude.tech/
+    expectedStatusCodes:
+      - 200
   - name: IoT
     url: https://iot.hackerdude.tech/
+    expectedStatusCodes:
+      - 200
   - name: Mail
     url: https://mail.hackerdude.tech/
+    expectedStatusCodes:
+      - 200
   - name: Watch
     url: https://watch.hackerdude.tech/
+    expectedStatusCodes:
+      - 200
   - name: DTG-Wiki
     url: https://wiki.ducttapedgames.com/
+    expectedStatusCodes:
+      - 200
   - name: MyPayIndia
     url: https://mypayindia.com/
+    expectedStatusCodes:
+      - 200
+  - name: MyShareIndia
+    url: https://share.mypayindia.com/
     expectedStatusCodes:
       - 200
 #  - name: Hacker News
