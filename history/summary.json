@@ -4,16 +4,16 @@
     "url": "https://git.hackerdude.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/git.hackerdude.tech.ico",
     "slug": "git",
-    "status": "down",
-    "uptime": "99.09%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "98.87%",
+    "status": "up",
+    "uptime": "99.08%",
+    "uptimeDay": "95.05%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "98.85%",
     "time": 541,
-    "timeDay": 344,
-    "timeWeek": 498,
-    "timeMonth": 504,
+    "timeDay": 492,
+    "timeWeek": 515,
+    "timeMonth": 508,
     "timeYear": 542,
     "dailyMinutesDown": {
       "2025-06-13": 24,
@@ -43,7 +43,7 @@
       "2026-04-17": 35,
       "2026-04-23": 89,
       "2026-05-05": 59,
-      "2026-06-07": 4
+      "2026-06-07": 71
     }
   },
   {
@@ -51,16 +51,16 @@
     "url": "https://iot.hackerdude.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/iot.hackerdude.tech.ico",
     "slug": "io-t",
-    "status": "down",
-    "uptime": "98.20%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "97.73%",
+    "status": "up",
+    "uptime": "98.19%",
+    "uptimeDay": "95.28%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "97.71%",
     "time": 452,
-    "timeDay": 382,
-    "timeWeek": 414,
-    "timeMonth": 399,
+    "timeDay": 416,
+    "timeWeek": 422,
+    "timeMonth": 402,
     "timeYear": 405,
     "dailyMinutesDown": {
       "2025-06-13": 24,
@@ -92,7 +92,7 @@
       "2026-04-08": 125,
       "2026-04-17": 34,
       "2026-05-05": 117,
-      "2026-06-07": 0
+      "2026-06-07": 68
     }
   },
   {
