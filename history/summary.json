@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.hackerdude.tech.ico",
     "slug": "git",
     "status": "down",
-    "uptime": "99.07%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "98.85%",
+    "uptime": "99.05%",
+    "uptimeDay": "87.72%",
+    "uptimeWeek": "97.29%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "98.82%",
     "time": 541,
     "timeDay": 0,
     "timeWeek": 491,
@@ -45,7 +45,7 @@
       "2026-05-05": 59,
       "2026-06-07": 94,
       "2026-06-08": 3,
-      "2026-06-09": 20
+      "2026-06-09": 176
     }
   },
   {
@@ -54,11 +54,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/iot.hackerdude.tech.ico",
     "slug": "io-t",
     "status": "down",
-    "uptime": "98.19%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "97.71%",
+    "uptime": "98.17%",
+    "uptimeDay": "88.05%",
+    "uptimeWeek": "97.38%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "97.68%",
     "time": 451,
     "timeDay": 0,
     "timeWeek": 381,
@@ -96,7 +96,7 @@
       "2026-05-05": 117,
       "2026-06-07": 89,
       "2026-06-08": 2,
-      "2026-06-09": 15
+      "2026-06-09": 172
     }
   },
   {
@@ -105,11 +105,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.hackerdude.tech.ico",
     "slug": "mail",
     "status": "down",
-    "uptime": "98.92%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "98.91%",
+    "uptime": "98.90%",
+    "uptimeDay": "88.39%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "98.88%",
     "time": 641,
     "timeDay": 0,
     "timeWeek": 586,
@@ -141,7 +141,7 @@
       "2026-04-23": 88,
       "2026-05-05": 59,
       "2026-05-13": 143,
-      "2026-06-09": 11
+      "2026-06-09": 167
     }
   },
   {
@@ -150,11 +150,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/watch.hackerdude.tech.ico",
     "slug": "watch",
     "status": "down",
-    "uptime": "98.74%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "98.61%",
+    "uptime": "98.72%",
+    "uptimeDay": "88.72%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "98.58%",
     "time": 548,
     "timeDay": 0,
     "timeWeek": 822,
@@ -186,7 +186,7 @@
       "2026-04-17": 34,
       "2026-04-23": 88,
       "2026-05-05": 59,
-      "2026-06-09": 6
+      "2026-06-09": 162
     }
   },
   {
@@ -195,11 +195,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.ducttapedgames.com.ico",
     "slug": "dtg-wiki",
     "status": "down",
-    "uptime": "98.59%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.92%",
+    "uptime": "98.56%",
+    "uptimeDay": "89.06%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "98.89%",
     "time": 710,
     "timeDay": 0,
     "timeWeek": 594,
@@ -226,7 +226,7 @@
       "2026-04-08": 123,
       "2026-04-23": 88,
       "2026-05-05": 59,
-      "2026-06-09": 1
+      "2026-06-09": 158
     }
   },
   {
@@ -235,16 +235,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mypayindia.com.ico",
     "slug": "my-pay-india",
     "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.62%",
-    "time": 739,
-    "timeDay": 2349,
-    "timeWeek": 811,
-    "timeMonth": 625,
-    "timeYear": 739,
+    "uptime": "99.56%",
+    "uptimeDay": "89.08%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.56%",
+    "time": 748,
+    "timeDay": 2587,
+    "timeWeek": 1063,
+    "timeMonth": 694,
+    "timeYear": 748,
     "dailyMinutesDown": {
       "2025-11-25": 33,
       "2025-11-26": 88,
@@ -257,7 +257,7 @@
       "2026-02-15": 21,
       "2026-02-18": 318,
       "2026-04-08": 123,
-      "2026-06-09": 1
+      "2026-06-09": 157
     }
   },
   {
@@ -266,19 +266,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/share.mypayindia.com.ico",
     "slug": "my-share-india",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 840,
+    "uptime": "99.62%",
+    "uptimeDay": "89.10%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.62%",
+    "time": 872,
     "timeDay": 2236,
-    "timeWeek": 800,
-    "timeMonth": 929,
-    "timeYear": 840,
+    "timeWeek": 980,
+    "timeMonth": 970,
+    "timeYear": 872,
     "dailyMinutesDown": {
       "2026-05-05": 59,
-      "2026-06-09": 0
+      "2026-06-09": 157
     }
   }
 ]
