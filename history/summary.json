@@ -4,17 +4,17 @@
     "url": "https://git.hackerdude.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/git.hackerdude.tech.ico",
     "slug": "git",
-    "status": "down",
+    "status": "up",
     "uptime": "98.96%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "91.40%",
-    "uptimeMonth": "97.86%",
-    "uptimeYear": "98.69%",
+    "uptimeDay": "94.90%",
+    "uptimeWeek": "90.87%",
+    "uptimeMonth": "97.74%",
+    "uptimeYear": "98.68%",
     "time": 543,
-    "timeDay": 626,
-    "timeWeek": 627,
-    "timeMonth": 533,
-    "timeYear": 546,
+    "timeDay": 545,
+    "timeWeek": 611,
+    "timeMonth": 531,
+    "timeYear": 545,
     "dailyMinutesDown": {
       "2025-06-28": 304,
       "2025-07-04": 510,
@@ -46,7 +46,7 @@
       "2026-06-08": 3,
       "2026-06-09": 647,
       "2026-06-13": 174,
-      "2026-06-14": 20
+      "2026-06-14": 73
     }
   },
   {
@@ -54,16 +54,16 @@
     "url": "https://iot.hackerdude.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/iot.hackerdude.tech.ico",
     "slug": "io-t",
-    "status": "down",
-    "uptime": "98.07%",
-    "uptimeDay": "88.87%",
-    "uptimeWeek": "90.07%",
-    "uptimeMonth": "97.56%",
-    "uptimeYear": "97.53%",
-    "time": 456,
-    "timeDay": 1406,
-    "timeWeek": 627,
-    "timeMonth": 469,
+    "status": "up",
+    "uptime": "98.06%",
+    "uptimeDay": "85.14%",
+    "uptimeWeek": "89.54%",
+    "uptimeMonth": "97.44%",
+    "uptimeYear": "97.52%",
+    "time": 455,
+    "timeDay": 1156,
+    "timeWeek": 610,
+    "timeMonth": 467,
     "timeYear": 412,
     "dailyMinutesDown": {
       "2025-06-28": 23,
@@ -98,7 +98,7 @@
       "2026-06-08": 2,
       "2026-06-09": 643,
       "2026-06-13": 320,
-      "2026-06-14": 15
+      "2026-06-14": 69
     }
   },
   {
@@ -106,16 +106,16 @@
     "url": "https://mail.hackerdude.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/mail.hackerdude.tech.ico",
     "slug": "mail",
-    "status": "down",
-    "uptime": "98.83%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "93.69%",
-    "uptimeMonth": "98.55%",
-    "uptimeYear": "98.79%",
+    "status": "up",
+    "uptime": "98.82%",
+    "uptimeDay": "95.58%",
+    "uptimeWeek": "93.16%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "98.78%",
     "time": 647,
-    "timeDay": 765,
-    "timeWeek": 944,
-    "timeMonth": 704,
+    "timeDay": 685,
+    "timeWeek": 910,
+    "timeMonth": 701,
     "timeYear": 652,
     "dailyMinutesDown": {
       "2025-06-28": 21,
@@ -144,7 +144,7 @@
       "2026-05-13": 143,
       "2026-06-09": 452,
       "2026-06-13": 174,
-      "2026-06-14": 10
+      "2026-06-14": 64
     }
   },
   {
@@ -152,16 +152,16 @@
     "url": "https://watch.hackerdude.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/watch.hackerdude.tech.ico",
     "slug": "watch",
-    "status": "down",
-    "uptime": "98.67%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "93.79%",
-    "uptimeMonth": "98.57%",
-    "uptimeYear": "98.50%",
+    "status": "up",
+    "uptime": "98.66%",
+    "uptimeDay": "95.91%",
+    "uptimeWeek": "93.26%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "98.49%",
     "time": 553,
-    "timeDay": 948,
-    "timeWeek": 824,
-    "timeMonth": 820,
+    "timeDay": 860,
+    "timeWeek": 819,
+    "timeMonth": 818,
     "timeYear": 566,
     "dailyMinutesDown": {
       "2025-06-28": 304,
@@ -190,7 +190,7 @@
       "2026-05-05": 59,
       "2026-06-09": 447,
       "2026-06-13": 174,
-      "2026-06-14": 5
+      "2026-06-14": 59
     }
   },
   {
@@ -198,17 +198,17 @@
     "url": "https://wiki.ducttapedgames.com/",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.ducttapedgames.com.ico",
     "slug": "dtg-wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "98.51%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "93.89%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "98.81%",
-    "time": 791,
-    "timeDay": 4317,
-    "timeWeek": 5348,
-    "timeMonth": 1886,
-    "timeYear": 824,
+    "uptimeDay": "96.25%",
+    "uptimeWeek": "93.36%",
+    "uptimeMonth": "98.47%",
+    "uptimeYear": "98.80%",
+    "time": 790,
+    "timeDay": 2414,
+    "timeWeek": 4864,
+    "timeMonth": 1846,
+    "timeYear": 823,
     "dailyMinutesDown": {
       "2025-06-28": 304,
       "2025-07-04": 506,
@@ -231,7 +231,7 @@
       "2026-05-05": 59,
       "2026-06-09": 442,
       "2026-06-13": 173,
-      "2026-06-14": 0
+      "2026-06-14": 54
     }
   }
 ]
