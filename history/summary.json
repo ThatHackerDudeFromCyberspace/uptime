@@ -54,16 +54,16 @@
     "url": "https://iot.hackerdude.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/iot.hackerdude.tech.ico",
     "slug": "io-t",
-    "status": "down",
-    "uptime": "98.09%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "97.87%",
-    "uptimeMonth": "97.44%",
-    "uptimeYear": "97.52%",
+    "status": "up",
+    "uptime": "98.07%",
+    "uptimeDay": "93.80%",
+    "uptimeWeek": "96.99%",
+    "uptimeMonth": "97.23%",
+    "uptimeYear": "97.50%",
     "time": 454,
-    "timeDay": 287,
-    "timeWeek": 617,
-    "timeMonth": 446,
+    "timeDay": 354,
+    "timeWeek": 606,
+    "timeMonth": 447,
     "timeYear": 412,
     "dailyMinutesDown": {
       "2025-06-28": 23,
@@ -99,7 +99,7 @@
       "2026-06-09": 643,
       "2026-06-13": 320,
       "2026-06-14": 69,
-      "2026-06-20": 0
+      "2026-06-20": 89
     }
   },
   {
