@@ -4,17 +4,17 @@
     "url": "https://git.hackerdude.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/git.hackerdude.tech.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.74%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "97.69%",
     "uptimeYear": "98.68%",
     "time": 541,
-    "timeDay": 511,
-    "timeWeek": 450,
-    "timeMonth": 510,
-    "timeYear": 545,
+    "timeDay": 0,
+    "timeWeek": 456,
+    "timeMonth": 508,
+    "timeYear": 546,
     "dailyMinutesDown": {
       "2025-06-28": 304,
       "2025-07-04": 510,
@@ -46,7 +46,9 @@
       "2026-06-08": 3,
       "2026-06-09": 647,
       "2026-06-13": 174,
-      "2026-06-14": 73
+      "2026-06-14": 73,
+      "2026-06-24": 17,
+      "2026-06-23": 2
     }
   },
   {
@@ -54,15 +56,15 @@
     "url": "https://iot.hackerdude.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/iot.hackerdude.tech.ico",
     "slug": "io-t",
-    "status": "up",
-    "uptime": "98.08%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "97.23%",
+    "status": "down",
+    "uptime": "98.09%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "97.20%",
     "uptimeYear": "97.50%",
     "time": 453,
-    "timeDay": 387,
-    "timeWeek": 364,
+    "timeDay": 0,
+    "timeWeek": 369,
     "timeMonth": 450,
     "timeYear": 412,
     "dailyMinutesDown": {
@@ -99,7 +101,8 @@
       "2026-06-09": 643,
       "2026-06-13": 320,
       "2026-06-14": 69,
-      "2026-06-20": 89
+      "2026-06-20": 89,
+      "2026-06-24": 15
     }
   },
   {
@@ -107,17 +110,17 @@
     "url": "https://mail.hackerdude.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/mail.hackerdude.tech.ico",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.43%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "98.40%",
     "uptimeYear": "98.78%",
     "time": 645,
-    "timeDay": 625,
-    "timeWeek": 553,
-    "timeMonth": 673,
-    "timeYear": 651,
+    "timeDay": 0,
+    "timeWeek": 572,
+    "timeMonth": 672,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2025-06-28": 21,
       "2025-07-04": 508,
@@ -145,7 +148,8 @@
       "2026-05-13": 143,
       "2026-06-09": 452,
       "2026-06-13": 174,
-      "2026-06-14": 64
+      "2026-06-14": 64,
+      "2026-06-24": 10
     }
   },
   {
@@ -153,16 +157,16 @@
     "url": "https://watch.hackerdude.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/watch.hackerdude.tech.ico",
     "slug": "watch",
-    "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.45%",
+    "status": "down",
+    "uptime": "98.69%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "98.44%",
     "uptimeYear": "98.49%",
     "time": 556,
-    "timeDay": 799,
-    "timeWeek": 759,
-    "timeMonth": 787,
+    "timeDay": 0,
+    "timeWeek": 792,
+    "timeMonth": 785,
     "timeYear": 573,
     "dailyMinutesDown": {
       "2025-06-28": 304,
@@ -191,7 +195,8 @@
       "2026-05-05": 59,
       "2026-06-09": 447,
       "2026-06-13": 174,
-      "2026-06-14": 59
+      "2026-06-14": 59,
+      "2026-06-24": 5
     }
   },
   {
@@ -199,17 +204,17 @@
     "url": "https://wiki.ducttapedgames.com/",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.ducttapedgames.com.ico",
     "slug": "dtg-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "98.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.47%",
     "uptimeYear": "98.80%",
     "time": 851,
-    "timeDay": 2306,
-    "timeWeek": 5469,
-    "timeMonth": 2832,
-    "timeYear": 901,
+    "timeDay": 0,
+    "timeWeek": 1380,
+    "timeMonth": 2899,
+    "timeYear": 902,
     "dailyMinutesDown": {
       "2025-06-28": 304,
       "2025-07-04": 506,
@@ -232,7 +237,8 @@
       "2026-05-05": 59,
       "2026-06-09": 442,
       "2026-06-13": 173,
-      "2026-06-14": 54
+      "2026-06-14": 54,
+      "2026-06-24": 0
     }
   }
 ]
