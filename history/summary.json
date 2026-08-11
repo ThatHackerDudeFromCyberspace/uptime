@@ -4,11 +4,11 @@
     "url": "https://git.hackerdude.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/git.hackerdude.tech.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "98.77%",
-    "uptimeDay": "23.22%",
-    "uptimeWeek": "82.30%",
-    "uptimeMonth": "95.93%",
+    "uptimeDay": "28.02%",
+    "uptimeWeek": "82.10%",
+    "uptimeMonth": "95.88%",
     "uptimeYear": "98.73%",
     "time": 595,
     "timeDay": 565,
@@ -45,7 +45,7 @@
       "2026-06-23": 2,
       "2026-08-09": 135,
       "2026-08-10": 1106,
-      "2026-08-11": 543
+      "2026-08-11": 563
     }
   },
   {
@@ -53,11 +53,11 @@
     "url": "https://iot.hackerdude.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/iot.hackerdude.tech.ico",
     "slug": "io-t",
-    "status": "up",
+    "status": "down",
     "uptime": "97.96%",
-    "uptimeDay": "23.55%",
-    "uptimeWeek": "82.44%",
-    "uptimeMonth": "95.96%",
+    "uptimeDay": "28.69%",
+    "uptimeWeek": "82.29%",
+    "uptimeMonth": "95.93%",
     "uptimeYear": "97.84%",
     "time": 447,
     "timeDay": 446,
@@ -94,7 +94,7 @@
       "2026-06-24": 524,
       "2026-08-09": 126,
       "2026-08-10": 1101,
-      "2026-08-11": 543
+      "2026-08-11": 558
     }
   },
   {
@@ -102,11 +102,11 @@
     "url": "https://mail.hackerdude.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/mail.hackerdude.tech.ico",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "98.61%",
-    "uptimeDay": "23.89%",
-    "uptimeWeek": "82.80%",
-    "uptimeMonth": "96.04%",
+    "uptimeDay": "29.36%",
+    "uptimeWeek": "82.70%",
+    "uptimeMonth": "96.02%",
     "uptimeYear": "98.79%",
     "time": 644,
     "timeDay": 756,
@@ -139,7 +139,7 @@
       "2026-06-24": 519,
       "2026-08-09": 94,
       "2026-08-10": 1096,
-      "2026-08-11": 543
+      "2026-08-11": 553
     }
   },
   {
@@ -147,13 +147,13 @@
     "url": "https://watch.hackerdude.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/watch.hackerdude.tech.ico",
     "slug": "watch",
-    "status": "up",
+    "status": "down",
     "uptime": "98.52%",
-    "uptimeDay": "24.22%",
-    "uptimeWeek": "82.95%",
-    "uptimeMonth": "96.08%",
+    "uptimeDay": "30.03%",
+    "uptimeWeek": "82.90%",
+    "uptimeMonth": "96.06%",
     "uptimeYear": "98.55%",
-    "time": 576,
+    "time": 575,
     "timeDay": 845,
     "timeWeek": 879,
     "timeMonth": 795,
@@ -184,7 +184,7 @@
       "2026-06-24": 514,
       "2026-08-09": 84,
       "2026-08-10": 1092,
-      "2026-08-11": 543
+      "2026-08-11": 548
     }
   },
   {
@@ -192,13 +192,13 @@
     "url": "https://wiki.ducttapedgames.com/",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.ducttapedgames.com.ico",
     "slug": "dtg-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "98.38%",
-    "uptimeDay": "24.56%",
+    "uptimeDay": "30.70%",
     "uptimeWeek": "83.09%",
     "uptimeMonth": "96.11%",
     "uptimeYear": "98.90%",
-    "time": 1144,
+    "time": 1145,
     "timeDay": 1150,
     "timeWeek": 1032,
     "timeMonth": 2462,
