@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.hackerdude.tech.ico",
     "slug": "git",
     "status": "down",
-    "uptime": "98.28%",
-    "uptimeDay": "70.17%",
-    "uptimeWeek": "94.56%",
-    "uptimeMonth": "86.62%",
+    "uptime": "98.27%",
+    "uptimeDay": "68.28%",
+    "uptimeWeek": "94.29%",
+    "uptimeMonth": "86.56%",
     "uptimeYear": "98.20%",
     "time": 605,
     "timeDay": 1381,
@@ -47,7 +47,7 @@
       "2026-08-12": 1440,
       "2026-08-16": 97,
       "2026-08-19": 22,
-      "2026-08-21": 430
+      "2026-08-21": 457
     }
   },
   {
@@ -55,17 +55,17 @@
     "url": "https://iot.hackerdude.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/iot.hackerdude.tech.ico",
     "slug": "io-t",
-    "status": "down",
+    "status": "up",
     "uptime": "97.62%",
-    "uptimeDay": "90.88%",
-    "uptimeWeek": "97.57%",
-    "uptimeMonth": "89.11%",
-    "uptimeYear": "98.37%",
-    "time": 429,
-    "timeDay": 314,
-    "timeWeek": 388,
-    "timeMonth": 622,
-    "timeYear": 429,
+    "uptimeDay": "89.06%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "89.05%",
+    "uptimeYear": "98.36%",
+    "time": 428,
+    "timeDay": 313,
+    "timeWeek": 381,
+    "timeMonth": 614,
+    "timeYear": 428,
     "dailyMinutesDown": {
       "2025-08-23": 210,
       "2025-08-30": 311,
@@ -94,7 +94,7 @@
       "2026-08-12": 1440,
       "2026-08-16": 92,
       "2026-08-19": 22,
-      "2026-08-21": 131
+      "2026-08-21": 157
     }
   },
   {
@@ -104,10 +104,10 @@
     "slug": "mail",
     "status": "down",
     "uptime": "98.02%",
-    "uptimeDay": "70.86%",
-    "uptimeWeek": "94.97%",
-    "uptimeMonth": "86.86%",
-    "uptimeYear": "98.27%",
+    "uptimeDay": "68.97%",
+    "uptimeWeek": "94.70%",
+    "uptimeMonth": "86.79%",
+    "uptimeYear": "98.26%",
     "time": 659,
     "timeDay": 1426,
     "timeWeek": 847,
@@ -140,7 +140,7 @@
       "2026-08-13": 1260,
       "2026-08-12": 1440,
       "2026-08-16": 87,
-      "2026-08-21": 419
+      "2026-08-21": 447
     }
   },
   {
@@ -149,11 +149,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/watch.hackerdude.tech.ico",
     "slug": "watch",
     "status": "down",
-    "uptime": "98.06%",
-    "uptimeDay": "73.28%",
-    "uptimeWeek": "96.18%",
-    "uptimeMonth": "87.31%",
-    "uptimeYear": "98.07%",
+    "uptime": "98.05%",
+    "uptimeDay": "71.39%",
+    "uptimeWeek": "95.91%",
+    "uptimeMonth": "87.25%",
+    "uptimeYear": "98.06%",
     "time": 599,
     "timeDay": 1544,
     "timeWeek": 1014,
@@ -184,7 +184,7 @@
       "2026-08-11": 1297,
       "2026-08-13": 1260,
       "2026-08-12": 1440,
-      "2026-08-21": 385
+      "2026-08-21": 412
     }
   },
   {
@@ -193,11 +193,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.ducttapedgames.com.ico",
     "slug": "dtg-wiki",
     "status": "down",
-    "uptime": "97.93%",
-    "uptimeDay": "73.64%",
-    "uptimeWeek": "96.23%",
-    "uptimeMonth": "87.37%",
-    "uptimeYear": "98.42%",
+    "uptime": "97.92%",
+    "uptimeDay": "71.75%",
+    "uptimeWeek": "95.96%",
+    "uptimeMonth": "87.31%",
+    "uptimeYear": "98.41%",
     "time": 1179,
     "timeDay": 2924,
     "timeWeek": 1357,
@@ -224,7 +224,7 @@
       "2026-08-11": 1292,
       "2026-08-13": 1260,
       "2026-08-12": 1440,
-      "2026-08-21": 380
+      "2026-08-21": 407
     }
   }
 ]
