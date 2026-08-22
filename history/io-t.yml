@@ -1,7 +1,7 @@
 url: https://iot.hackerdude.tech/
-status: up
-code: 200
-responseTime: 444
-lastUpdated: 2026-08-21T23:18:28.525Z
+status: down
+code: 502
+responseTime: 457
+lastUpdated: 2026-08-22T10:09:17.433Z
 startTime: 2025-02-19T10:34:20.949Z
 generator: Upptime <https://github.com/upptime/upptime>
