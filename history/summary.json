@@ -159,16 +159,16 @@
     "url": "https://watch.hackerdude.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/watch.hackerdude.tech.ico",
     "slug": "watch",
-    "status": "down",
+    "status": "up",
     "uptime": "97.40%",
-    "uptimeDay": "61.20%",
-    "uptimeWeek": "94.46%",
-    "uptimeMonth": "85.05%",
+    "uptimeDay": "59.47%",
+    "uptimeWeek": "94.21%",
+    "uptimeMonth": "84.99%",
     "uptimeYear": "96.97%",
-    "time": 641,
-    "timeDay": 541,
-    "timeWeek": 687,
-    "timeMonth": 1194,
+    "time": 642,
+    "timeDay": 582,
+    "timeWeek": 685,
+    "timeMonth": 1181,
     "timeYear": 699,
     "dailyMinutesDown": {
       "2025-09-27": 21,
@@ -200,7 +200,7 @@
       "2026-08-27": 559,
       "2026-09-02": 539,
       "2026-09-01": 261,
-      "2026-09-16": 558
+      "2026-09-16": 583
     }
   },
   {
